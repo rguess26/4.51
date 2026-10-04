@@ -147,13 +147,9 @@ The Met est traité séparément dans l'analyse réglementaire en raison du cadr
 
 La logique centrale est :
 
-\[
-\text{Prévision}_{t}
-=
-\text{Croissance des loyers demandés}_{t-1}
--
-\text{Impact des concessions}_{t-1}
-\]
+$$
+\text{Prévision}_{t} = \text{Croissance des loyers demandés}_{t-1} - \text{Impact des concessions}_{t-1}
+$$
 
 Pour 2026 :
 
